@@ -1,0 +1,125 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-Feb-2016, 23:51:27
+    Author     : Ruturaj
+*/
+
+/*.navs{
+    list-style: none;
+}*/
+.hrline{
+    
+}
+.services_header{
+    height: 90px;
+}
+.services_header img{
+    margin-top: 0px;
+}
+.custom_image_bg{
+    background-image: url("../img/bg.png");
+}
+.navs,.description{
+    margin-top: 50px;
+}
+.custom_detail{
+    margin-right: 110px;
+}
+
+.center_align{
+    margin-left: 550px;
+        
+}
+.btn1{
+    margin: 100px;
+}
+.custom_margin{
+ 
+}
+.description{
+    margin-left: 300px;
+    margin-bottom: 30px;
+    font-family: 'Lora', serif;
+}
+.detail{
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-Feb-2016, 23:51:27
+    Author     : Ruturaj
+*/
+a{
+    font-family: 'Droid Serif', serif;
+}
+.nav-custome{
+    background-color: white;
+    color: #1a75ff;
+    
+}
+.nav-custome a:hover{
+    background-color: #1a75ff;
+    color: #23527c;
+}
+.nav_tab{
+    color: black;
+    margin-top: 1200px;
+}
+.callout{
+    margin-top: 5px; 
+}
+
+.center_align{
+    margin-left: 550px;
+        
+}
+.btn1{
+    margin: 100px;
+}
+.custom_margin{
+ 
+}
+
+/*styles for category page */
+.custom_content_category{
+    margin-left: 25px;
+    
+}
+.custom_content_category ul{
+    display: inline;
+    list-style: none;
+}
+.custom_content_category input{
+    width: 150px;
+    float: left;
+    margin-bottom: 1px;
+    background: #1a75ff; 
+    color: white;
+    font-family: 'Droid Serif', serif;
+}
+.custom_content_category input:hover{
+     background: rgba(255,255,255,0.2); 
+     background-color: white;
+     color: #1a75ff;
+}
+
+
+/*index-1 jason*/
+foot{
+    background-color: #1a75ff;
+}
